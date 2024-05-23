@@ -9,3 +9,7 @@ https://binderhub.ssl-hep.org/build/gh/research-software-collaborations/courses-
 ```bash
 https://jupyterhub.ssl-hep.org/hub/home) and click on the URL
 ```
+* Open a terminal and do
+```bash
+git clone https://github.com/ianna/2024-05-24-hsf-india-tutorial-delhi.git
+```
